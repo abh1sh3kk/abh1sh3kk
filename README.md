@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=400&color=A200F7&background=FFFFFF00&vCenter=true&width=500&height=40&lines=Hi%2C+I+am+Abhishek+Acharya)](https://git.io/typing-svg)
 
 
+![image](https://i.ibb.co/VVSzdDr/me.gif)
 
 ### Connect With Me
 <p align="left">
@@ -38,14 +39,16 @@
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=abh1sh3kk&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abh1sh3kk&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abh1sh3kk&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 -----------
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-  
+  ----
+
+[](https://i.ibb.co/ZJ3SLRZ/coding-gif.gif)
